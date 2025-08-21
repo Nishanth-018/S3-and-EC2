@@ -1,4 +1,9 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
+~~~
+Name : NISHANTH J
+
+Reg no: 212223100040
+~~~
 ## Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2
 instance in AWS.
